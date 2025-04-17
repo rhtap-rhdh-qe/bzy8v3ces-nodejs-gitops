@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bzy8v3ces-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/bzy8v3ces-nodejs
